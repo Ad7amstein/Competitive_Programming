@@ -4,6 +4,6 @@ This folder contains my solutions for UVA (University of Valladolid) programming
 
 ## File Naming
 
-`ProblemName_ProblemID.cpp`: example -> Product_10106.cpp
+`ProblemID - Problem name.cpp`: example -> Product_10106.cpp
 
 Feel free to explore the files and use them as a reference for your own problem-solving journey.
